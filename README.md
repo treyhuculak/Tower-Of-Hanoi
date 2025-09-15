@@ -1,4 +1,4 @@
-#Tower of Hanoi
+# Tower of Hanoi
 
 This is a script built at my time at UBCO. 
 
